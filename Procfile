@@ -1,1 +1,2 @@
-worker:python krilltolotin.py
+worker: python krilltolotin.py
+
